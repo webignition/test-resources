@@ -1,0 +1,3 @@
+@import "valid-no-imports.css";
+html {}
+@import "invalid-no-imports.css";
